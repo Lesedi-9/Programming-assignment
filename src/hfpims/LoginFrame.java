@@ -1,3 +1,4 @@
+// LoginFrame - handles user authentication and role-based redirection
 package hfpims;
 
 
