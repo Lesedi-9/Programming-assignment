@@ -1,3 +1,4 @@
+// Quick stock lookup for cashiers
 package hfpims;
 
 import javax.swing.*;
