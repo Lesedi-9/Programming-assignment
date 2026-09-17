@@ -1,3 +1,4 @@
+// Colours and button styles used everywhere
 package hfpims;
 
 import javax.swing.*;
