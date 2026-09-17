@@ -1,3 +1,4 @@
+// Handles mysql connection for whole app
 package hfpims;
 
 import java.sql.Connection;
