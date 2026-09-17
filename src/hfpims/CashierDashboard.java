@@ -1,3 +1,4 @@
+// Cashier view - pos and stock check
 package hfpims;
 
 import javax.swing.*;
