@@ -1,3 +1,4 @@
+// Supplier CRUD, shows how many medicines each supplier has
 package hfpims;
 
 import javax.swing.*;
