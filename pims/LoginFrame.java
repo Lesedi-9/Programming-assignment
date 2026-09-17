@@ -1,4 +1,4 @@
-package hfpims;
+package pims;
 
 
 import javax.swing.*;
