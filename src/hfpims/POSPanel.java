@@ -1,3 +1,4 @@
+// Point of Sale - cart, checkout and stock update
 package hfpims;
 
 import javax.swing.*;
