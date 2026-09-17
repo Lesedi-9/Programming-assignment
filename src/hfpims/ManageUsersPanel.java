@@ -1,3 +1,4 @@
+// Manage admins and cashiers
 package hfpims;
 
 import javax.swing.*;
