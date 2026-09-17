@@ -1,3 +1,4 @@
+// Receipt window, can print or save to file
 package hfpims;
 
 import javax.swing.*;
