@@ -1,3 +1,4 @@
+//Login screen - checks user and redirects based on role
 package hfpims;
 
 import javax.swing.*;
