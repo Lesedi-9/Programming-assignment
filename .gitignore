@@ -1,1 +1,13 @@
-/build/
+# NetBeans
+nbproject/
+build/
+dist/
+build.xml
+manifest.mf
+
+# Java
+*.class
+
+# IDE
+.idea/
+*.iml
