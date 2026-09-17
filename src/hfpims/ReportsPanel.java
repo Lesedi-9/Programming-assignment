@@ -1,3 +1,4 @@
+// Reports and jfreechart graphs
 package hfpims;
 
 import org.jfree.chart.ChartFactory;
