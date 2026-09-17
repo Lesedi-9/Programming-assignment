@@ -1,3 +1,4 @@
+// Add edit delete medicines, colours show expired / low stock
 package hfpims;
 
 import javax.swing.*;
