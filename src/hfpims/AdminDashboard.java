@@ -1,4 +1,4 @@
-//Login screen - checks user and redirects based on role
+//Admin dashboard with tabs for medicines, suppliers, users and reports
 package hfpims;
 
 import javax.swing.*;
